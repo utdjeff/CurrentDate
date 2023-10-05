@@ -1,0 +1,70 @@
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .calendar {
+            background-color: #fff;
+            border: 2px solid #28a745;
+            border-radius: 10px;
+            width: 400px;
+            height: 400px;
+            text-align: center;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+            animation: fadeIn 1s ease;
+        }
+
+        @keyframes fadeIn {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+
+        .calendar-header {
+            background-color: #28a745;
+            color: #fff;
+            padding: 10px 0;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+        }
+
+        .calendar-header h1 {
+            font-size: 48px; /* Increased font size for the header */
+            margin: 0;
+        }
+
+        .calendar-day {
+            font-size: 36px; /* Increased font size for the day */
+        }
+
+        .calendar-date {
+            font-size: 128px; /* Increased font size for the date to fill more space */
+            margin: 10px 0;
+            animation: pulse 1s infinite alternate;
+        }
+
+        @keyframes pulse {
+            0% {
+                transform: scale(1);
+            }
+            100% {
+                transform: scale(1.1);
+            }
+        }
+
+        .calendar-month {
+            font-size: 24px; /* Increased font size for the month */
+            text-transform: uppercase;
+        }
+
+        .calendar-year {
+            font-size: 24px; /* Increased font size for the year */
+        }

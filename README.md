@@ -9,7 +9,7 @@
 - Display of the current month.
 - Display of the current year.
 - Stylish design with animations.
-- Good coding techniques
+- Good coding techniques shown
 
 ## How to Use
 

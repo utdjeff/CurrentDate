@@ -20,7 +20,6 @@
 You can easily customize the calendar's appearance by modifying the `Calender.css` file.
 
 
-
 ## Author
 
 - [Jefferson Gilbert]

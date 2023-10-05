@@ -19,12 +19,10 @@
 
 You can easily customize the calendar's appearance by modifying the `Calender.css` file.
 
-## Credits
 
-- Calendar design inspired by [Your Name/Link to Inspiration Source].
 
 ## Author
 
 - [Jefferson Gilbert]
-- GitHub: []
+- GitHub: [https://github.com/utdjeff]
 

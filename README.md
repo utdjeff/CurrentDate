@@ -9,6 +9,7 @@
 - Display of the current month.
 - Display of the current year.
 - Stylish design with animations.
+- I am a good programmer.
 
 ## How to Use
 
